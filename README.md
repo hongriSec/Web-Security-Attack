@@ -21,15 +21,13 @@
 * [[红日安全]Web安全Day12 - 敏感信息泄漏实战攻防](/Part1/Day13/files/README.md) 
 * [[红日安全]Web安全Day13 - 短信验证码/图片验证码漏洞实战攻防](/Part1/Day15/files/README.md) 
 * [[红日安全]Web安全Day14 - 会话固定漏洞实战攻防](/Part1/Day16/files/README.md) 
-* [[红日安全]Web安全Day15 - 远程代码执行/代码注入/命令执行实战攻防](/Part1/Day17/files/README.md) 
-* [[红日安全]Web安全Day16 - 缓冲区溢出漏洞实战攻防](/Part1/Day17/files/README.md) 
-* [[红日安全]Web安全Day17 - DDOS攻击实战攻防](/Part1/Day17/files/README.md) 
-* [[红日安全]Web安全Day18 - 暴力破解实战攻防](/Part1/Day17/files/README.md) 
+* [[红日安全]Web安全Day15 - 远程代码执行/代码注入/命令执行实战攻防](/Part1/Day17/files/README.md)  
+* [[红日安全]Web安全Day16 - 暴力破解实战攻防](/Part1/Day17/files/README.md) 
 
 
 ## Part2
 
-**Part2** 部分属于项目 **第一阶段** 的内容，主要是实战THB上面实战靶场练习，提高整体安全攻防能力：
+**Part2** 部分属于项目 **第二阶段** 的内容，主要是实战HTB(hack the box)上面实战靶场练习，提高整体安全攻防能力：
 
 * [ [红日安全]Web安全THB实战Day1 - Fortune 实战](/Part1/Day1/files/README.md) 
 * [ [红日安全]Web安全THB实战Day2 - Arkham 实战](/Part1/Day2/files/README.md) 
