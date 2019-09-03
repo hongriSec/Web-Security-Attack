@@ -9,7 +9,7 @@
 
 * [ [红日安全]Web安全Day1 - SQL注入实战攻防](/Part1/Day1/files/README.md) 
 * [ [红日安全]Web安全Day2 - XSS跨站实战攻防](/Part1/Day2/files/README.md) 
-* [ [红日安全]Web安全Day3 - CSRF实战攻防](/Part1/Day3/files/README.md) 
+* [ [红日安全]Web安全Day3 - CSRF实战攻防](/blob/master/Part1/day3/files/README.md) 
 * [ [红日安全]Web安全Day4 - SSRF实战攻防](/Part1/Day4/files/README.md) 
 * [ [红日安全]Web安全Day5 - 任意文件上传实战攻防](/Part1/Day5/files/README.md) 
 * [ [红日安全]Web安全Day6 - 业务逻辑漏洞实战攻防](/Part1/Day6/files/README.md) 
